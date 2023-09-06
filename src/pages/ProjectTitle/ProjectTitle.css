@@ -1,0 +1,21 @@
+.title {
+  padding-left: 30px;
+  margin: 10px;
+  font-size: large;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.title h2 {
+  font-weight: 300;
+  margin: 0;
+}
+
+.title button {
+  margin-right: 30px;
+  background-color: rgb(242, 194, 80);
+  border-radius: 3px;
+  color: white;
+  cursor: pointer;
+}
